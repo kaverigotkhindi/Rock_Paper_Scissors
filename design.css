@@ -1,0 +1,44 @@
+
+header{
+    float: right;
+}
+.reset{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+/* .container-3{
+   border: 1px solid red; 
+} */
+.container-3 div{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+   
+}
+.container-3 img{
+width: 150px;
+margin: 100px;
+
+}
+.container-3 img:hover{
+    
+    box-shadow: 0 10px 50px blue;   
+}
+.score-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    color: rgb(234, 79, 18);
+}
+/* #rsp-img-container img{
+    display: none;
+    
+} */
